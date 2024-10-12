@@ -1,0 +1,25 @@
+Welcome to the UIC Simulator Game!!
+The game where you play out the life of a typical CS student
+I am your mentor and guide, Sparky D. Dragon
+But before you may begin
+You must first learn about the mechanics of this game
+
+In the upper right hand corner, you'll see some status bars 
+One indicates your stress level 
+One represents your overall health
+And another your knowledge. 
+The actions you take will affect the level of each bar.
+
+This is a To-do list listing all your assignments that must be done before your deadlines.
+Click on it to show your todo list
+Click on the To-do list when you're done
+
+
+Finally, is the map to navigate your way around campus. 
+Click on the map symbol to get a full view of the UIC Campus 
+
+
+You have access to the Rec Facility, SCE to eat, and much more.
+Click on the back button to go back
+
+Now that you know how the game works, you may begin the game
